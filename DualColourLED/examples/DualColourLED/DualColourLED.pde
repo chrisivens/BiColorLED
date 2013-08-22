@@ -1,16 +1,16 @@
-#include <BiColorLED.h>
+#include <DualColourLED.h>
 
-// Simple demo of features available in V1.0 of the BiColorLED library
+// Simple demo of features available in V1.0 of the DualColourLED library
 // (C) 2012 Wolfgang Faust
 
 // To see the effects of this example, just plug a bi-color LED
 // into pins 4 and 5, along with the appropriate resistors.
 
-BiColorLED led=BiColorLED(4,5); // (pin 1, pin 2)
+DualColourLED led=DualColourLED(4,5); // (pin 1, pin 2)
 unsigned long time; // Time the colour was last changed
 
 void setup() {
-  // BiColorLED doesn't need anything here
+  // DualColourLED doesn't need anything here
 }
 
 void loop() {

@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For BiColorLED
+# Syntax Coloring Map For DualColourLED
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-BiColorLED	KEYWORD1
+DualColourLED	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -28,4 +28,4 @@ getBlinkSpeed	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
-BiColorLED_H	LITERAL1
+DualColourLED_H	LITERAL1
