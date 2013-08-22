@@ -6,19 +6,15 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-DualColourLED	KEYWORD1
+DualColourLED KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-drive	KEYWORD2
-setColor	KEYWORD2
-getColor	KEYWORD2
-setColor2	KEYWORD2
-getColor2	KEYWORD2
-setBlinkSpeed	KEYWORD2
-getBlinkSpeed	KEYWORD2
+drive KEYWORD2
+setColour KEYWORD2
+getColour KEYWORD2
 
 
 #######################################
@@ -28,4 +24,4 @@ getBlinkSpeed	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
-DualColourLED_H	LITERAL1
+DualColourLED_H LITERAL1
